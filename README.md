@@ -22,8 +22,8 @@
 ## 🛠️ Skills  
 
 - Python (Pandas, NumPy, análisis de datos financieros)  
-- Modelos financieros (TIR, VAN, cashflow, simulaciones)  
-- Git & GitHub  
+- Modelos financieros (TIR, cashflow, simulaciones)  
+- TypeScript
 - Agentes de IA  
 - React + Next.js  
 - Vercel (deploy & hosting)  
@@ -39,14 +39,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=juampimdp&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-## 🏆 Trofeos  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=juampimdp&theme=onedark&no-frame=true&margin-w=15"/>
 </p>
 
 ---
